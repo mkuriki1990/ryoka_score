@@ -3,11 +3,11 @@
 楽譜 PDF および MIDI 音源を作成するための GNU Lilypond の .ly ファイル. 
 
 ## 各ディレクトリについて
-### ly
+* ly
 GNU Lilypond のソースファイルが入っているディレクトリ. 
-### pdf
+* pdf
 Lilypond を使って出力した楽譜の PDF ファイルが入っているディレクトリ. 
-### midi
+* midi
 Lilypond を使って出力した midi シーケンスファイルが入っているディレクトリ. 
 
 ## ライセンス
