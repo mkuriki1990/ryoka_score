@@ -31,8 +31,8 @@ melody = \relative c'{
   c4 a8. b16 | 
   c4 f4 | 
   e8.( d16) c8.( d16) |
-  c2( | 
-  c4) r4 | \break
+  c2~ | 
+  c4 r4 | \break
   d4 e4 |
   f4 d4 | 
   e4 g8.( a16) | 
