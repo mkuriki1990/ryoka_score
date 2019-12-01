@@ -37,7 +37,7 @@ melody = \relative c'{
   f4 d4 | 
   e4 g8.( a16) | 
   g2 | 
-  f4 g4 | 
+  fis4 g4 | 
   a4 c4 | 
   b4 a4 | 
   g2 | \break
