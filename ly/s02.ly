@@ -3,7 +3,7 @@
 \paper {indent = 0}
 
 \header {
-  title = "蒼空高く翔らんと"
+  title = "蒼空高く翔らむと"
   subtitle = "昭和2年寮歌"
   composer = "長谷川吉郎君 作曲"
   poet = "土井恒喜君 作歌"
