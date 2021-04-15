@@ -3,7 +3,7 @@
 \paper {indent = 0}
 
 \header {
-  title = "新たなり天地"
+  title = "新らたなり天地"
   subtitle = "昭和26年寮歌"
   composer = "小林滋宗君 作曲"
   poet = "長尾久司君 作歌"
