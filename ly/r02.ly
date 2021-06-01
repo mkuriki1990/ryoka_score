@@ -5,8 +5,8 @@
 \header {
   title = "鴉翼の影"
   subtitle = "令和2年度寮歌"
-  composer = "君 作曲"
-  poet = "君 作歌"
+  composer = "加納央人君 作曲"
+  poet = "落合海宇君 作歌"
   tagline = "北海道大学恵迪寮寮歌集アプリ - https://www.ep.sci.hokudai.ac.jp/~mkuriki/phone/ryoka/"
 }
 
